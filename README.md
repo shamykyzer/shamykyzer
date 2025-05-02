@@ -100,23 +100,17 @@
 
 ###
 
-<img align="right" height="200" src="https://americanmotorcyclist.com/wp-content/uploads/2023/10/Ducati-Superleggera-V4_UC145951_High.jpg"  />
+<div align="center">
+  <img height="200" src="https://pbs.twimg.com/media/FjOYBjIWYAIYenE.jpg"  />
+</div>
 
 ###
 
-<img align="right" height="200" src="https://pbs.twimg.com/media/FjOYBjIWYAIYenE.jpg"  />
-
-###
-
-<img align="right" height="200" src="https://pixelz.cc/wp-content/uploads/2018/08/bmw-hp4-race-uhd-4k-wallpaper.jpg"  />
+<img align="left" height="200" src="https://pixelz.cc/wp-content/uploads/2018/08/bmw-hp4-race-uhd-4k-wallpaper.jpg"  />
 
 ###
 
 <img align="left" height="200" src="https://editorial.pxcrush.net/carsales/general/editorial/2024-toyota-gr-supra-supercar-2-yb79.jpg?width=1024&height=682"  />
-
-###
-
-<img align="left" height="200" src="https://4kwallpapers.com/images/wallpapers/toyota-supra-mk4-3840x2160-14566.jpg"  />
 
 ###
 
