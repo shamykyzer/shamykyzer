@@ -84,7 +84,7 @@
 
 ###
 
-<p align="left">The best cars and bikes—no debate.</p>
+<p align="left">my eye candy.</p>
 
 ###
 
