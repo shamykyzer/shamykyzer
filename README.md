@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Open to learning AI and aiming to become a cybersecurity analyst.</p>
+<p align="left"></p>
 
 ###
 
