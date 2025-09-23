@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm 22 years old from Egypt and study Computer Science at UWE Bristol.</p>
+<p align="left">I study Computer Science at UWE Bristol and love solving problems.</p>
 
 ###
 
