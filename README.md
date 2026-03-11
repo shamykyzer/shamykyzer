@@ -43,30 +43,4 @@
 
 ###
 
-<h2 align="left">A man can only dream</h2>
 
-###
-
-<img align="left" height="200" src="https://stratton-motor-company.s3.amazonaws.com/wp-content/uploads/2025/01/27154437/IMG_3877-scaled.jpg"  />
-
-###
-
-<img align="left" height="200" src="https://stratton-motor-company.s3.amazonaws.com/wp-content/uploads/2025/01/27155036/IMG_3826-scaled.jpg"  />
-
-###
-
-<img align="left" height="200" src="https://stratton-motor-company.s3.amazonaws.com/wp-content/uploads/2025/01/27154757/IMG_3904-scaled.jpg"  />
-
-###
-
-<img align="left" height="200" src="https://pbs.twimg.com/media/FjOYBjIWYAIYenE.jpg"  />
-
-###
-
-<img align="left" height="200" src="https://editorial.pxcrush.net/carsales/general/editorial/2024-toyota-gr-supra-supercar-2-yb79.jpg?width=1024&height=682"  />
-
-###
-
-<img align="left" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/14e893186779589.657b4f1cbfe2f.jpg"  />
-
-###
